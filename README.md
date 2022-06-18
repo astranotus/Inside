@@ -11,3 +11,5 @@ Tests for "Inside"
 ![Снимок2](https://user-images.githubusercontent.com/106106823/174456992-879cf9d0-d03d-49f6-8ec0-5f37e6492e8e.PNG)
 
 Тесты проверяют UI главной страницы и заполнение формы "Свяжитесь с нами".
+
+По адресу Inside/src/test/java/utils/ лежат примеры генерации тестовых данных.
